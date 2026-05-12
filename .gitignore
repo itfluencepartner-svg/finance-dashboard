@@ -1,0 +1,6 @@
+﻿*.py
+*.bak*
+*.log
+*.parquet
+*.xlsx
+__pycache__/
